@@ -1,0 +1,24 @@
+{
+  "name": "hong_kong_university",
+  "version": "1.0.0",
+  "description": "hong_kong_university_code",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amos4070/hongkonguniversity1.git",
+    "lite": "lite-server"
+  },
+  "author": "MUSEFIU OJO AMOS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amos4070/hongkonguniversity1/issues"
+  },
+  "homepage": "https://github.com/Amos4070/hongkonguniversity1#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
